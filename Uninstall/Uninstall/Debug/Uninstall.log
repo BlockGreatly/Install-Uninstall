@@ -1,0 +1,7 @@
+﻿  Uninstall.cpp
+H:\VS_Projects\1\Uninstall\Uninstall\Win7Msgbox.h(30,1): warning C4005: “NTDDI_VERSION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\SDKDDKVer.h(234,1): message : 参见“NTDDI_VERSION”的前一个定义
+H:\VS_Projects\1\Uninstall\Uninstall\Win7Msgbox.h(31,1): warning C4005: “_WIN32_WINNT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\SDKDDKVer.h(224,1): message : 参见“_WIN32_WINNT”的前一个定义
+H:\VS_Projects\1\Uninstall\Uninstall\Uninstall.cpp(60): warning C4715: “Win7AskBox”: 不是所有的控件路径都返回值
+  Uninstall.vcxproj -> H:\VS_Projects\1\Uninstall\Debug\Uninstall.exe
