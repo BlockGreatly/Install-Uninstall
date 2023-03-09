@@ -1,5 +1,0 @@
-﻿  全窗口.cpp
-H:\VS_Projects\1\全窗口\全窗口\全窗口.cpp(101,23): warning C4101: “s”: 未引用的局部变量
-H:\VS_Projects\1\全窗口\全窗口\全窗口.cpp(125,31): warning C4101: “s”: 未引用的局部变量
-H:\VS_Projects\1\全窗口\全窗口\全窗口.cpp(184,22): warning C4101: “s”: 未引用的局部变量
-  全窗口.vcxproj -> H:\VS_Projects\1\全窗口\Debug\全窗口.exe
